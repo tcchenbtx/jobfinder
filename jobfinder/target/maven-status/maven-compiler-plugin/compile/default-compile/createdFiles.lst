@@ -1,0 +1,5 @@
+rpc/SearchItem.class
+rpc/RecommendItem.class
+external/GitHubClient$1.class
+external/GitHubClient.class
+rpc/RpcHelper.class
