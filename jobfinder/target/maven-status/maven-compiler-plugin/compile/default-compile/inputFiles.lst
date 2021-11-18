@@ -1,4 +1,5 @@
-/Users/tzuchieh/Documents/gitroot/jobfinder/src/main/java/rpc/RecommendItem.java
-/Users/tzuchieh/Documents/gitroot/jobfinder/src/main/java/rpc/SearchItem.java
-/Users/tzuchieh/Documents/gitroot/jobfinder/src/main/java/rpc/RpcHelper.java
-/Users/tzuchieh/Documents/gitroot/jobfinder/src/main/java/external/GitHubClient.java
+/Users/tzuchieh/Documents/gitroot/project_jobfinder/jobfinder/src/main/java/entity/Item.java
+/Users/tzuchieh/Documents/gitroot/project_jobfinder/jobfinder/src/main/java/rpc/SearchItem.java
+/Users/tzuchieh/Documents/gitroot/project_jobfinder/jobfinder/src/main/java/external/GitHubClient.java
+/Users/tzuchieh/Documents/gitroot/project_jobfinder/jobfinder/src/main/java/rpc/RecommendItem.java
+/Users/tzuchieh/Documents/gitroot/project_jobfinder/jobfinder/src/main/java/rpc/RpcHelper.java
